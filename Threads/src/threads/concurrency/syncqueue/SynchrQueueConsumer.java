@@ -2,7 +2,7 @@ package threads.concurrency.syncqueue;
 
 import java.util.concurrent.SynchronousQueue;
 
-public class SynchrQueueConsumer implements Runnable{
+public class SynchrQueueConsumer implements Runnable {
 
 	SynchronousQueue<String> syncQueue ;
 	
@@ -11,7 +11,7 @@ public class SynchrQueueConsumer implements Runnable{
 	}
 		
 	@Override
-	public void run() {
+	public void run(){
 		for(int i=0;i<50;i++){
 			String element;
 			try {
