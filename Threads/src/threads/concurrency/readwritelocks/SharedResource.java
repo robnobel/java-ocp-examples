@@ -1,4 +1,4 @@
-package threads.concurreny.readwritelocks;
+package threads.concurrency.readwritelocks;
 
 import java.util.ArrayList;
 import java.util.List;

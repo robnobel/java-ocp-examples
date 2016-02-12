@@ -1,4 +1,4 @@
-package threads.concurreny.readwritelocks;
+package threads.concurrency.readwritelocks;
 
 public class ReadWriteLocksDemo {
 
