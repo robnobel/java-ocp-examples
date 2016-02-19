@@ -1,4 +1,4 @@
-package threads.concurrency.readwritelocks;
+package ocp.threads.concurrency.readwritelocks;
 
 import java.util.ArrayList;
 import java.util.List;

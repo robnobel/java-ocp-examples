@@ -1,4 +1,4 @@
-package threads.synchronization;
+package ocp.threads.synchronization;
 
 import java.util.ArrayList;
 import java.util.List;

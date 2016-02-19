@@ -1,4 +1,4 @@
-package threads.concurrency.callable;
+package ocp.threads.concurrency.callable;
 
 public class CallableDemo {
 

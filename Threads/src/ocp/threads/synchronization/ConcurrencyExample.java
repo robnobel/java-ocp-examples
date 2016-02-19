@@ -1,4 +1,4 @@
-package threads.synchronization;
+package ocp.threads.synchronization;
 
 public class ConcurrencyExample {
 

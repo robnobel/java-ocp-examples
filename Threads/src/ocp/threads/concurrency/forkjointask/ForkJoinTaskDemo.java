@@ -1,4 +1,4 @@
-package threads.concurrency.forkjointask;
+package ocp.threads.concurrency.forkjointask;
 
 public class ForkJoinTaskDemo {
 

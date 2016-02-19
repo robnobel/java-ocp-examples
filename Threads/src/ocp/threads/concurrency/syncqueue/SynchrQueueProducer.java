@@ -1,4 +1,4 @@
-package threads.concurrency.syncqueue;
+package ocp.threads.concurrency.syncqueue;
 
 import java.util.concurrent.SynchronousQueue;
 

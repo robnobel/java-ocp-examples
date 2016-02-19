@@ -35,7 +35,8 @@ public class SortingDemo {
 		for(Book b:list){
 			System.out.println(b.getTitle());
 		}
-		System.out.println();
+		System.out.println(
+				);
 	}
 	
 	/**

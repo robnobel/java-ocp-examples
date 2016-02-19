@@ -1,4 +1,4 @@
-package threads.joining;
+package ocp.threads.joining;
 
 
 public class ThreadJoining {
